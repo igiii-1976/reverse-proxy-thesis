@@ -147,7 +147,7 @@ The complete experimental methodology, algorithms, results, and discussion are d
 
 **Mark Luigi M. Cumabig**  
 **Azrael Darius O. Eusebio**  
-**Wilson M. Tan**
+**Dr. Wilson M. Tan**
 
 Networks and Distributed Systems Laboratory  
 Department of Computer Science  

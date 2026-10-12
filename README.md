@@ -6,6 +6,8 @@ This project presents a distributed edge computing architecture that repurposes 
 
 The architecture addresses a key limitation of repurposed mobile hardware: **restricted Java heap memory**. A semaphore-based crash prevention mechanism regulates the admission of memory-intensive image recognition tasks, while RTT-based routing improves workload distribution according to the observed performance of each edge device.
 
+The research paper for this project was accepted for presentation at the International Conference on Edge Intelligence (EDGEI-2026).
+
 ---
 
 ## Overview

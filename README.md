@@ -85,15 +85,15 @@ This prevents multiple memory-intensive recognition tasks from executing simulta
 
 ## System Architecture
 
-The complete architecture can be summarized as:
+The complete architecture can be summarized here:
 
 <img width="5544" height="2854" alt="timeline drawio" src="https://github.com/user-attachments/assets/714b38a2-a21d-4f50-a888-4e8779f78217" />
 
 ---
 
-## Application UI
+## Application Preview / Screenshots
 
-This is how the Reverse Proxy and Edge servers' UI look.
+This is how the Reverse Proxy and Edge servers' applications look.
 
 <img width="1052" height="921" alt="UI" src="https://github.com/user-attachments/assets/c6be8e45-5432-421a-9c34-eb97b3efa3da" />
 

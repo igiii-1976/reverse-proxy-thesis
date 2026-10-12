@@ -4,9 +4,9 @@
 
 This project presents a distributed edge computing architecture that repurposes Android smartphones as edge servers for computationally intensive workloads. The system uses an Android-based reverse proxy to distribute image recognition requests across multiple Android devices running TensorFlow Lite.
 
-The architecture addresses a key limitation of repurposed mobile hardware: **restricted Java heap memory**. A semaphore-based crash prevention mechanism regulates the admission of memory-intensive image recognition tasks, while RTT-based routing improves workload distribution according to the observed performance of each edge device.
+The architecture addresses a key limitation of repurposed mobile hardware: restricted Java heap memory. A semaphore-based crash prevention mechanism regulates the admission of memory-intensive image recognition tasks, while RTT-based routing improves workload distribution according to the observed performance of each edge device.
 
-The research paper for this project was accepted for presentation at the International Conference on Edge Intelligence (EDGEI-2026).
+The research paper for this project was accepted for presentation at the **International Conference on Edge Intelligence (EDGEI-2026)**.
 
 ---
 

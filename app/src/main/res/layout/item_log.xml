@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvLogText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fontFamily="monospace"
+    android:paddingVertical="2dp"
+    android:text="12:00:00 - Log message"
+    android:textColor="#FFFFFF"
+    android:textSize="12sp" />

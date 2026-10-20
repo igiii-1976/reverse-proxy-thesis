@@ -123,7 +123,7 @@ https://github.com/Alphxs/helloServer
 
 ### Reverse Proxy / Edge Servers
 
-- Java, JavaScript, Kotlin
+- Java, Kotlin, Python automation
 - NanoHTTPD
 - OkHttp
 - Android NSD / mDNS
